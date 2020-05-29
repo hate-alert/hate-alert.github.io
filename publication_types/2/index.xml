@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Biography</title>
+    <title>2 | Reading List</title>
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
@@ -13,13 +13,16 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>Detecting hate speech in social media</title>
+      <link>/publication/malmasi2017detecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/malmasi2017detecting/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
