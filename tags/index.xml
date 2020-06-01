@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Bias</title>
+      <link>/tags/bias/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counter speech</title>
+      <link>/tags/counter-speech/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/counter-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detection</title>
       <link>/tags/detection/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/detection/</guid>
       <description></description>
     </item>
@@ -23,15 +39,31 @@
     <item>
       <title>English</title>
       <link>/tags/english/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offensive</title>
+      <link>/tags/offensive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/offensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racial</title>
+      <link>/tags/racial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/racial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survey</title>
       <link>/tags/survey/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/survey/</guid>
       <description></description>
     </item>
@@ -41,30 +73,6 @@
       <link>/tags/hate-crime/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/hate-crime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Offensive</title>
-      <link>/tags/offensive/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/offensive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias</title>
-      <link>/tags/bias/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Racial</title>
-      <link>/tags/racial/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/racial/</guid>
       <description></description>
     </item>
     
