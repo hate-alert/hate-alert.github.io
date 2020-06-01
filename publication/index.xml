@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,21 +13,24 @@
     </image>
     
     <item>
-      <title>Thou shalt not hate: Countering Online Hate Speech</title>
-      <link>/publication/thou_shalt_not_hate/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/thou_shalt_not_hate/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <title>A survey on automatic detection of hate speech in text</title>
+      <link>/publication/fortuna2018survey/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/fortuna2018survey/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Semeval-2019 task 5: Multilingual detection of hate speech against immigrants and women in twitter</title>
-      <link>/publication/basile2019semeval/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/basile2019semeval/</guid>
+      <title>Detecting hate speech on twitter using a convolution-gru based deep neural network</title>
+      <link>/publication/zhang2018detecting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang2018detecting/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
@@ -86,9 +89,9 @@
       <guid>/publication/davidson2017automated/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
-&lt;h3 id=&#34;limitation&#34;&gt;Limitation&lt;/h3&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
-&lt;h3 id=&#34;future-direction&#34;&gt;Future Direction&lt;/h3&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
@@ -136,6 +139,76 @@
     </item>
     
     <item>
+      <title>Hate crime victimization, 2004-2015</title>
+      <link>/publication/masucci2017hate/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/masucci2017hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hate Crime, England and Wales</title>
+      <link>/publication/o2017hate/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/o2017hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hate Crime: concepts, policy, future directions</title>
+      <link>/publication/chakraborti2017hate/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chakraborti2017hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hate me, hate me not: Hate speech detection on facebook</title>
+      <link>/publication/del2017hate/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/del2017hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring the reliability of hate speech annotations: The case of the european refugee crisis</title>
+      <link>/publication/ross2017measuring/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ross2017measuring/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Recognizing explicit and implicit hate speech using a weakly supervised two-path bootstrapping approach</title>
       <link>/publication/gao2017recognizing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -154,6 +227,20 @@
       <link>/publication/gamback2017using/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/gamback2017using/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>‘I will blow your face OFF’—VIRTUAL and physical world anti-muslim hate crime</title>
+      <link>/publication/awan2017will/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/awan2017will/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
@@ -192,10 +279,66 @@
     </item>
     
     <item>
+      <title>Causes and motivations of hate crime</title>
+      <link>/publication/walters2016causes/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/walters2016causes/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hateful symbols or hateful people? predictive features for hate speech detection on twitter</title>
       <link>/publication/waseem2016hateful/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/waseem2016hateful/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mental health of transgender veterans in US states with and without discrimination and hate crime legal protection</title>
+      <link>/publication/blosnich2016mental/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blosnich2016mental/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The affinity between online and offline anti-Muslim hate crime: Dynamics and impacts</title>
+      <link>/publication/awan2016affinity/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/awan2016affinity/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The internet and racial hate crime: Offline spillovers from online access</title>
+      <link>/publication/chan2016internet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/chan2016internet/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
