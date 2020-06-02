@@ -5,12 +5,26 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning Models for Multilingual Hate Speech Detection</title>
+      <link>/publication/saketh2020deep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/saketh2020deep/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Detection of hate speech in social networks: a survey on multilingual corpus</title>
@@ -69,6 +83,20 @@
     </item>
     
     <item>
+      <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>
+      <link>/publication/saha2019hatemonitors/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2019hatemonitors/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Overview of the hasoc track at fire 2019: Hate speech and offensive content identification in indo-european languages</title>
       <link>/publication/mandl2019overview/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -101,6 +129,20 @@
       <link>/publication/mathew2019spread/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/mathew2019spread/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal effects of Unmoderated Hate speech in Gab</title>
+      <link>/publication/mathew2019temporal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mathew2019temporal/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
@@ -185,6 +227,20 @@
       <link>/publication/weinstein2018hate/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/weinstein2018hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hateminers: Detecting hate speech against women</title>
+      <link>/publication/saha2018hateminers/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2018hateminers/</guid>
       <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
