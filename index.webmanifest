@@ -2,8 +2,8 @@
   "name": "Hate Alert",
   "short_name": "Hate Alert",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#76382a",
+  "background_color": "#76382a",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
