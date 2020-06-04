@@ -21,10 +21,34 @@
     </item>
     
     <item>
+      <title>English</title>
+      <link>/tags/english/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our papers</title>
       <link>/tags/our-papers/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vietnamese</title>
+      <link>/tags/vietnamese/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/vietnamese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabic</title>
+      <link>/tags/arabic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/arabic/</guid>
       <description></description>
     </item>
     
@@ -45,10 +69,18 @@
     </item>
     
     <item>
-      <title>English</title>
-      <link>/tags/english/</link>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/english/</guid>
+      <guid>/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>/tags/german/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/german/</guid>
       <description></description>
     </item>
     
@@ -77,10 +109,50 @@
     </item>
     
     <item>
+      <title>Amharic</title>
+      <link>/tags/amharic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/amharic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indonesian</title>
+      <link>/tags/indonesian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/indonesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hate crime</title>
       <link>/tags/hate-crime/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/hate-crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dutch</title>
+      <link>/tags/dutch/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/dutch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenya</title>
+      <link>/tags/kenya/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/kenya/</guid>
       <description></description>
     </item>
     

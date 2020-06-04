@@ -619,6 +619,27 @@
 <section id="comments">
   
     
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "punyajoysaha" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
   
 </section>
@@ -636,13 +657,13 @@
       
       <li><a href="/publication/davidson2017automated/">Automated hate speech detection and the problem of offensive language</a></li>
       
+      <li><a href="/publication/qian2019benchmark/">A benchmark dataset for learning to intervene in online hate speech</a></li>
+      
       <li><a href="/publication/gelber2019differentiating/">Differentiating hate speech: a systemic discrimination approach</a></li>
       
+      <li><a href="/publication/van2019hate/">Hate Speech Detection on Vietnamese Social Media Text using the Bi-GRU-LSTM-CNN Model</a></li>
+      
       <li><a href="/publication/zhang2019hate/">Hate speech detection: A solved problem? the challenging case of long tail on twitter</a></li>
-      
-      <li><a href="/publication/alkiviadou2019hate/">Hate speech on social media networks: towards a regulatory framework?</a></li>
-      
-      <li><a href="/publication/saha2019hatemonitors/">HateMonitors: Language Agnostic Abuse Detection in Social Media</a></li>
       
     </ul>
   </div>
@@ -737,7 +758,7 @@
 
     
     
-    <script id="dsq-count-scr" src="https://.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="https://punyajoysaha.disqus.com/count.js" async></script>
     
 
     
