@@ -5,16 +5,21 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Thou shalt not hate: Countering Online Hate Speech</title>
-      <link>/publication/thou_shalt_not_hate/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/thou_shalt_not_hate/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+      <title>Short is the Road that Leads from Fear to Hate: Fear Speech in Indian WhatsApp Groups</title>
+      <link>/publication/saha2021short/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2021short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection</title>
+      <link>/publication/mathew2020hatexplain/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mathew2020hatexplain/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Short is the Road that Leads from Fear to Hate: Fear Speech in Indian WhatsApp Groups</title>
+      <link>/publication/saha2021short/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2021short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection</title>
+      <link>/publication/mathew2020hatexplain/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mathew2020hatexplain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ARHNet-Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic</title>

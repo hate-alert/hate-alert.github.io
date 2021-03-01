@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Counter speech</title>
-      <link>/tags/counter-speech/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/counter-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detection</title>
       <link>/tags/detection/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/tags/detection/</guid>
       <description></description>
     </item>
@@ -31,16 +23,48 @@
     <item>
       <title>English</title>
       <link>/tags/english/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fear speech</title>
+      <link>/tags/fear-speech/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/fear-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi</title>
+      <link>/tags/hindi/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/hindi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our papers</title>
       <link>/tags/our-papers/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainability</title>
+      <link>/tags/explainability/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/explainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counter speech</title>
+      <link>/tags/counter-speech/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/counter-speech/</guid>
       <description></description>
     </item>
     
