@@ -20,8 +20,35 @@
       <description>&lt;h4 id=&#34;-bookmark-the-page-to-stay-updated-&#34;&gt;👉 Bookmark the page to stay updated !!!&lt;/h4&gt;
 &lt;h3 id=&#34;table-of-contents&#34;&gt;Table of contents&lt;/h3&gt;
 &lt;p&gt;To be added soon&lt;/p&gt;
+&lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Analysis of hate content
+&lt;ol&gt;
+&lt;li&gt;How hate speech is inflicting different platforms?&lt;/li&gt;
+&lt;li&gt;Existing datasets&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hate speech detection
+&lt;ol&gt;
+&lt;li&gt;Text-based systems&lt;/li&gt;
+&lt;li&gt;User-based systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Mitigation of hate speech
+&lt;ol&gt;
+&lt;li&gt;Banning and suspending users&lt;/li&gt;
+&lt;li&gt;Counter speech detection&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Challenges ahead
+&lt;ol&gt;
+&lt;li&gt;Explainability and bias&lt;/li&gt;
+&lt;li&gt;Multimodal and multilingual challenges.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3 id=&#34;organizers-detail&#34;&gt;&lt;strong&gt;Organizers detail&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. He is currently invested in mitigation of hate speech in social media. His works are published at major conferences like WWWW, AAAI, ECML-PKDD and ICWSM.More about him can be found 
+&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. He is currently involved in developing mitigation algorithms for hate speech in social media. His works are published at major conferences like The Web Conference, AAAI, ECML-PKDD and ICWSM.More about him can be found 
 &lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. He is currently interested in solving issues surrounding hate speech in online social media and providing solutions to counter them. His works are published in leading conferences such as WWW, ICWSM, ECML-PKDD, and WebSci. More about him can be found 
 &lt;a href=&#34;https://binny-mathew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
