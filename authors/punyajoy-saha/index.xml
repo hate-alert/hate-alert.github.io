@@ -5,7 +5,34 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 03 Mar 2021 00:29:10 +0530</lastBuildDate>
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;In this research areas, we analyse the exisiting methods of mitigating hate speech and propose newer methods. We are heavily focusing on ideas around developing counter speech as a soultion for hate speech&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>/project/analysis/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
+      <guid>/project/analysis/</guid>
+      <description>&lt;p&gt;We analyse variants of hate and abuse in different platforms. Most recent works from this projects are accepted in CSCW, WebSCI and WWW.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Wed, 03 Mar 2021 00:26:36 +0530</pubDate>
+      <guid>/project/detection/</guid>
+      <description>&lt;p&gt;In this part we are focusing on creating better methods for hate speech detection. Two areas we are focusing are Multimodal content and Explanaiblity &amp;amp; Bias in detection system.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Short is the Road that Leads from Fear to Hate: Fear Speech in Indian WhatsApp Groups</title>
       <link>/publication/saha2021short/</link>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hate Alert</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 03 Mar 2021 00:29:10 +0530</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;In this research areas, we analyse the exisiting methods of mitigating hate speech and propose newer methods. We are heavily focusing on ideas around developing counter speech as a soultion for hate speech&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>/project/analysis/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
+      <guid>/project/analysis/</guid>
+      <description>&lt;p&gt;We analyse variants of hate and abuse in different platforms. Most recent works from this projects are accepted in CSCW, WebSCI and WWW.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Wed, 03 Mar 2021 00:26:36 +0530</pubDate>
+      <guid>/project/detection/</guid>
+      <description>&lt;p&gt;In this part we are focusing on creating better methods for hate speech detection. Two areas we are focusing are Multimodal content and Explanaiblity &amp;amp; Bias in detection system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 07 Jun 2021 17:30:00 +0530</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,41 +15,58 @@
     <item>
       <title>Hate speech: Detection, Mitigation and Beyond</title>
       <link>/talk/icwsm_tutorial/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Jun 2021 17:30:00 +0530</pubDate>
       <guid>/talk/icwsm_tutorial/</guid>
-      <description>&lt;h4 id=&#34;-bookmark-the-page-to-stay-updated-&#34;&gt;👉 Bookmark the page to stay updated !!!&lt;/h4&gt;
-&lt;h3 id=&#34;table-of-contents&#34;&gt;Table of contents&lt;/h3&gt;
-&lt;p&gt;To be added soon&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://calendar.google.com/calendar/render?action=TEMPLATE&amp;amp;dates=20210607T120000Z%2F20210607T133000Z&amp;amp;details=%20Social%20media%20sites%20such%20as%20Twitter%20and%20Facebook%20have%20connected%20billions%20of%20people%20and%20given%20the%20opportunity%20to%20the%20users%20to%20share%20their%20ideas%20and%20opinions%20instantly.%20That%20being%20said%2C%20there%20are%20several%20ill%20consequences%20as%20well%20such%20as%20online%20harassment%2C%20trolling%2C%20cyber-bullying%2C%20fake%20news%2C%20and%20hate%20speech.%20Out%20of%20these%2C%20hate%20speech%20presents%20a%20unique%20challenge%20as%20it%20is%20deep%20engraved%20into%20our%20society%20and%20is%20often%20linked%20with%20offline%20violence.%20Social%20media%20platforms%20rely%20on%20local%20moderators%20to%20identify%20hate%20speech%20and%20take%20necessary%20action%2C%20but%20with%20a%20prolific%20increase%20in%20such%20content%20over%20social%20media%20many%20are%20turning%20toward%20automated%20hate%20speech%20detection%20and%20mitigation%20systems.%20This%20shift%20brings%20several%20challenges%20on%20the%20plate%2C%20and%20hence%2C%20is%20an%20important%20avenue%20to%20explore%20for%20the%20computation%20social%20science%20community.%0A%0AIn%20this%20translation%20style%20tutorial%2C%20we%20present%20an%20exposition%20of%20hate%20speech%20detection%20and%20mitigation%20in%20three%20steps.%20First%2C%20we%20shall%20describe%20the%20current%20state%20of%20research%20in%20the%20hate%20speech%20domain%2C%20focusing%20on%20different%20detection%20and%20mitigation%20systems%20that%20have%20developed%20over%20time.%20Next%2C%20we%20shall%20highlight%20the%20challenges%20that%20these%20systems%20might%20carry%20like%20bias%20and%20lack%20of%20transparency.%20The%20final%20section%20will%20concretize%20the%20path%20ahead%2C%20providing%20clear%20guidelines%20for%20the%20community%20working%20on%20hate%20speech%20and%20related%20areas.%20We%20shall%20outline%20the%20open%20challenges%20and%20research%20directions%20for%20interested%20researchers.%0A%0AHere%2C%20we%20plan%20to%20cover%20the%20following%20topics%2C%20i%29%20How%20is%20hate%20speech%20affecting%20different%20platforms%3F%20ii%29%20Existing%20dataset%2C%20iii%29%20Text-based%20hate%20speech%20systems%2C%20iv%29%20User-based%20hate%20speech%20systems%2C%20v%29%20How%20we%20can%20mitigate%20or%20slow%20down%20the%20process%20of%20spread%20of%20hate%20speech%2C%20vi%29%20What%20are%20the%20challenges%20still%20present%20in%20the%20domain%2C%20e.g.%3A%20Explainability%20and%20bias%2C%20Multimodal%20and%20multilingual%20challenges%20etc%2C%20in%20the%20tutorial.%0A&amp;amp;location=https%3A%2F%2Fwww.icwsm.org%2F2021%2Findex.html&amp;amp;text=Tutorial%20-%22Hate%20speech%3A%20Detection%2C%20Mitigation%20and%20beyond%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Add the event to your calendar&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;contributions-and-achievements&#34;&gt;Contributions and achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our papers are accepted in &lt;strong&gt;top conferences&lt;/strong&gt; like AAAI, WWW, CSCW, ICWSM, WebSci. Link to the papers 
+&lt;a href=&#34;../../tags/our-papers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We have &lt;strong&gt;open sourced&lt;/strong&gt; our codes and datasets under a single github organisation - 
+&lt;a href=&#34;https://github.com/hate-alert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt; for the future research in this domain&lt;/li&gt;
+&lt;li&gt;Different &lt;strong&gt;transformers models&lt;/strong&gt; are also stored in 
+&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert organisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also participate in several hate speech shared tasks, winning many of them - 
+&lt;a href=&#34;https://www.aclweb.org/anthology/2021.dravidianlangtech-1.17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@DLTEACL&lt;/a&gt;, 
+&lt;a href=&#34;http://personales.upv.es/prosso/resources/FersiniEtAl_Evalita18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateminers@AMI&lt;/a&gt;, 
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3368567.3368584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatemonitors@HASOC&lt;/a&gt; and coming under 1% in 
+&lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@Hatememe detection&lt;/a&gt; by Facebook AI.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
 &lt;p&gt;In this &lt;strong&gt;translation style tutorial&lt;/strong&gt;, we present an exposition of hate speech detection and mitigation in three steps. The following section presents a detailed plan for the tutorial:-&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Analysis of hate content
+&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt;
 &lt;ol&gt;
-&lt;li&gt;How hate speech is inflicting different platforms?&lt;/li&gt;
-&lt;li&gt;Existing datasets&lt;/li&gt;
+&lt;li&gt;Spread of hate speech&lt;/li&gt;
+&lt;li&gt;Effects of hate speech&lt;/li&gt;
+&lt;li&gt;Targets of hate speech&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Hate speech detection
+&lt;li&gt;&lt;strong&gt;Detection&lt;/strong&gt;
 &lt;ol&gt;
-&lt;li&gt;Text-based systems&lt;/li&gt;
-&lt;li&gt;User-based systems&lt;/li&gt;
+&lt;li&gt;Different datasets&lt;/li&gt;
+&lt;li&gt;Earlier detection models&lt;/li&gt;
+&lt;li&gt;Current detection models (based on transformers)&lt;/li&gt;
+&lt;li&gt;Multimodal and Multilingual hate speech&lt;/li&gt;
+&lt;li&gt;Hate user detection&lt;/li&gt;
+&lt;li&gt;Challenge: Evaluation, Explainability and Bias&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Mitigation of hate speech
+&lt;li&gt;&lt;strong&gt;Mitigation&lt;/strong&gt;
 &lt;ol&gt;
 &lt;li&gt;Banning and suspending users&lt;/li&gt;
 &lt;li&gt;Counter speech detection&lt;/li&gt;
+&lt;li&gt;Counter speech generation&lt;/li&gt;
+&lt;li&gt;Challenges: Generation pitfalls, Moderation effects&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Challenges ahead
+&lt;li&gt;&lt;strong&gt;Road to the future&lt;/strong&gt;
 &lt;ol&gt;
-&lt;li&gt;Explainability and bias&lt;/li&gt;
-&lt;li&gt;Multimodal and multilingual challenges.&lt;/li&gt;
-&lt;li&gt;Nuances of hate speech datasets.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Road to the future
-&lt;ol&gt;
+&lt;li&gt;Summary of challenges&lt;/li&gt;
 &lt;li&gt;Branches and extensions of hate speech.&lt;/li&gt;
 &lt;li&gt;Connections to offline violence.&lt;/li&gt;
 &lt;li&gt;Guidelines for building better dataset.&lt;/li&gt;
@@ -57,16 +74,16 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;organizers-detail&#34;&gt;&lt;strong&gt;Organizers detail&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. He is currently involved in developing mitigation algorithms for hate speech in social media. His works are published at major conferences like The Web Conference, AAAI, ECML-PKDD and ICWSM.More about him can be found 
+&lt;h3 id=&#34;about-the-organizers&#34;&gt;&lt;strong&gt;About the Organizers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. More about him can be found 
 &lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. He is currently interested in solving issues surrounding hate speech in online social media and providing solutions to counter them. His works are published in leading conferences such as The Web Conference, ICWSM, ECML-PKDD, and WebSci. More about him can be found 
+&lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. More about him can be found 
 &lt;a href=&#34;https://binny-mathew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mithun Das&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lie in computational social science and natural language processing. More about him can be found 
 &lt;a href=&#34;https://das-mithun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pawan Goyal&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing and text mining. More about him can be found 
 &lt;a href=&#34;https://cse.iitkgp.ac.in/~pawang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kiran Garimella&lt;/strong&gt; is the first IDSS postdoctoral fellow to receive a Hammer Fellowship, pioneers research into the spread of rumors and misinformation on closed platforms such as WhatsApp, a popular encrypted messaging service with millions of users worldwide. Kiran aims to develop technical solutions to such problems by building tools that can collect and analyze massive social media datasets. More about him can be found 
+&lt;p&gt;&lt;strong&gt;Kiran Garimella&lt;/strong&gt; is the first IDSS postdoctoral fellow to receive a Hammer Fellowship, pioneers research into the spread of rumors and misinformation on closed platforms such as WhatsApp, a popular encrypted messaging service with millions of users worldwide. More about him can be found 
 &lt;a href=&#34;https://users.ics.aalto.fi/kiran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Animesh Mukherjee&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing, information retrieval and AI and ethics. More about him can be found 
 &lt;a href=&#34;https://cse.iitkgp.ac.in/~animeshm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
