@@ -25,11 +25,11 @@
 &lt;a href=&#34;../../tags/our-papers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;We have &lt;strong&gt;open sourced&lt;/strong&gt; our codes and datasets under a single github organisation - 
 &lt;a href=&#34;https://github.com/hate-alert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt; for the future research in this domain&lt;/li&gt;
-&lt;li&gt;Different &lt;strong&gt;transformers models&lt;/strong&gt; are also stored in 
-&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. 
+&lt;li&gt;We have stored different &lt;strong&gt;transformers models&lt;/strong&gt; in 
+&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. Link to 
 &lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert organisation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored 
-&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored in the 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface datsets forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;We also participate in several hate speech shared tasks, winning many of them - 
 &lt;a href=&#34;https://www.aclweb.org/anthology/2021.dravidianlangtech-1.17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@DLTEACL&lt;/a&gt;, 
 &lt;a href=&#34;http://personales.upv.es/prosso/resources/FersiniEtAl_Evalita18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateminers@AMI&lt;/a&gt;, 
