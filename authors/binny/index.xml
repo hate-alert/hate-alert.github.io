@@ -5,6 +5,15 @@
     <link>/authors/binny/</link>
       <atom:link href="/authors/binny/index.xml" rel="self" type="application/rss+xml" />
     <description>Hate Alert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 03 Mar 2021 00:29:10 +0530</lastBuildDate>
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

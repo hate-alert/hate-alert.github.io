@@ -14,9 +14,27 @@
       <description>&lt;p&gt;&lt;strong&gt;Hate alert&lt;/strong&gt; is a  small group of researchers at 
 &lt;a href=&#34;http://www.cnergres.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNeRG Lab&lt;/a&gt;, 
 &lt;a href=&#34;http://www.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT Kharagpur&lt;/a&gt;.
-Their vision is to bring civility in online conversations by building systems to &lt;strong&gt;analyse&lt;/strong&gt;, &lt;strong&gt;detect&lt;/strong&gt; and &lt;strong&gt;mitigate&lt;/strong&gt; hate in online social media. Recently, they have published papers in top conferences like AAAI, WWW, ICWSM and WebSci. More about their work can be found 
-&lt;a href=&#34;tags/our-papers/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+Their vision is to bring civility in online conversations by building systems to &lt;strong&gt;analyse&lt;/strong&gt;, &lt;strong&gt;detect&lt;/strong&gt; and &lt;strong&gt;mitigate&lt;/strong&gt; hate in online social media. Recently, they have published papers in top conferences like AAAI, WWW, ICWSM and WebSci.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some of the important links for researchers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of our papers is 
+&lt;a href=&#34;tags/our-papers/&#34;&gt;linked here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check our Huggingface organisation - 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our hatexplain dataset can be found 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/binny/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:10 +0530</pubDate>
+      <guid>/authors/binny/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -28,18 +46,18 @@ Their vision is to bring civility in online conversations by building systems to
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/animesh-mukherjee/</guid>
+      <title>Binny Mathew</title>
+      <link>/authors/binny-mathew/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
+      <guid>/authors/binny-mathew/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Binny Mathew</title>
-      <link>/authors/binny-mathew/</link>
+      <title></title>
+      <link>/authors/animesh-mukherjee/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/binny-mathew/</guid>
+      <guid>/authors/animesh-mukherjee/</guid>
       <description></description>
     </item>
     
@@ -1480,14 +1498,6 @@ Their vision is to bring civility in online conversations by building systems to
       <link>/authors/wilson-jeffrey-malobahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorswilson&#43;jeffrey&#43;malobabtng/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/authors/wilson-jeffrey-malobahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorswilson&#43;jeffrey&#43;malobabtng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/binny/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/binny/</guid>
       <description></description>
     </item>
     
