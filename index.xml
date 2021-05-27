@@ -55,7 +55,7 @@
     </item>
     
     <item>
-      <title>Hate speech: Detection, Mitigation and Beyond</title>
+      <title>Hate speech: Detection, Mitigation and Beyond </title>
       <link>/talk/icwsm_tutorial/</link>
       <pubDate>Mon, 07 Jun 2021 17:30:00 +0530</pubDate>
       <guid>/talk/icwsm_tutorial/</guid>
@@ -83,16 +83,17 @@
 &lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
 &lt;p&gt;In this &lt;strong&gt;translation style tutorial&lt;/strong&gt;, we present an exposition of hate speech detection and mitigation in three steps. The following section presents a detailed plan for the tutorial:-&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; (15 min)- This section will cover the scentific interest in hate speech and various definitions of hate speech. This section will help you understand the outline and what to take home from this tutorial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt; (20 min)- In this section, we analyze the spread of hate speech in online social media platforms like Twitter, Facebook, Gab etc. We observe that hate speech is spreading through online communities at an alarming rate. These hateful users are well connected among themselves and are reaching a wider audience. This case is more severe in moderation free platforms like Gab, Bitchute etc. The targets of such hate vary. These include the Muslims, Jews, Africans etc. This section is further divided into the following parts
 &lt;ol&gt;
 &lt;li&gt;Spread of hate speech&lt;/li&gt;
 &lt;li&gt;Effects of hate speech&lt;/li&gt;
 &lt;li&gt;Targets of hate speech&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Detection&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Detection&lt;/strong&gt; (20 min)- Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.
 &lt;ol&gt;
-&lt;li&gt;Different datasets&lt;/li&gt;
+&lt;li&gt;Different datasets. This section is further divided into&lt;/li&gt;
 &lt;li&gt;Earlier detection models&lt;/li&gt;
 &lt;li&gt;Current detection models (based on transformers)&lt;/li&gt;
 &lt;li&gt;Multimodal and Multilingual hate speech&lt;/li&gt;
@@ -100,7 +101,7 @@
 &lt;li&gt;Challenge: Evaluation, Explainability and Bias&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mitigation&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Mitigation&lt;/strong&gt; (20 min)- To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.
 &lt;ol&gt;
 &lt;li&gt;Banning and suspending users&lt;/li&gt;
 &lt;li&gt;Counter speech detection&lt;/li&gt;
@@ -108,7 +109,7 @@
 &lt;li&gt;Challenges: Generation pitfalls, Moderation effects&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Road to the future&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Road to the future&lt;/strong&gt; (15 min)- We end this tutorial with covering the summary of the challenges and road to the future for hate speech research.
 &lt;ol&gt;
 &lt;li&gt;Summary of challenges&lt;/li&gt;
 &lt;li&gt;Branches and extensions of hate speech.&lt;/li&gt;
@@ -135,15 +136,6 @@
     </item>
     
     <item>
-      <title>Mitigation</title>
-      <link>/project/mitigation/</link>
-      <pubDate>Wed, 03 Mar 2021 00:29:10 +0530</pubDate>
-      <guid>/project/mitigation/</guid>
-      <description>&lt;p&gt;To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Analysis</title>
       <link>/project/analysis/</link>
       <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
@@ -153,11 +145,16 @@
     </item>
     
     <item>
-      <title>Detection</title>
-      <link>/project/detection/</link>
-      <pubDate>Wed, 03 Mar 2021 00:26:36 +0530</pubDate>
-      <guid>/project/detection/</guid>
-      <description>&lt;p&gt;Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.&lt;/p&gt;
+      <title>Hate-Alert@ DravidianLangTech-EACL2021: Ensembling strategies for Transformer-based Offensive language Detection</title>
+      <link>/publication/saha2021hate/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2021hate/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
@@ -166,7 +163,27 @@
       <link>/publication/saha2021short/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/publication/saha2021short/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Knowledge Graphs to Improve Hate Speech Detection</title>
+      <link>/publication/maheshappa2021using/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/maheshappa2021using/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -174,7 +191,13 @@
       <link>/publication/mathew2020hatexplain/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/mathew2020hatexplain/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -188,6 +211,15 @@
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Tue, 03 Mar 2020 00:26:36 +0530</pubDate>
+      <guid>/project/detection/</guid>
+      <description>&lt;p&gt;Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.&lt;/p&gt;
 </description>
     </item>
     
@@ -230,6 +262,26 @@
 &lt;p&gt;Coming soon&lt;/p&gt;
 &lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Sun, 03 Mar 2019 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.&lt;/p&gt;
 </description>
     </item>
     

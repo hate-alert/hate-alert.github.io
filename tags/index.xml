@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
@@ -15,8 +15,40 @@
     <item>
       <title>Detection</title>
       <link>/tags/detection/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kannada</title>
+      <link>/tags/kannada/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/kannada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offensive</title>
+      <link>/tags/offensive/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/offensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamil</title>
+      <link>/tags/tamil/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/tamil/</guid>
       <description></description>
     </item>
     
@@ -45,10 +77,18 @@
     </item>
     
     <item>
-      <title>Our papers</title>
-      <link>/tags/our-papers/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/our-papers/</guid>
+      <title>Knowledge graph</title>
+      <link>/tags/knowledge-graph/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/knowledge-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/dataset/</guid>
       <description></description>
     </item>
     
@@ -77,6 +117,14 @@
     </item>
     
     <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Arabic</title>
       <link>/tags/arabic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -93,26 +141,10 @@
     </item>
     
     <item>
-      <title>Dataset</title>
-      <link>/tags/dataset/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>German</title>
       <link>/tags/german/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/german/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Offensive</title>
-      <link>/tags/offensive/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/offensive/</guid>
       <description></description>
     </item>
     
