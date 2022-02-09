@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Hate Alert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 23 Feb 2022 18:30:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 23 Feb 2022 22:00:00 +0530</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Hate Alert</title>
@@ -57,7 +57,7 @@
     <item>
       <title>Hate speech: Detection, Mitigation and Beyond @AAAI</title>
       <link>/talk/aaai_tutorial/</link>
-      <pubDate>Wed, 23 Feb 2022 18:30:00 +0530</pubDate>
+      <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
       <guid>/talk/aaai_tutorial/</guid>
       <description>&lt;h3 id=&#34;important-updates&#34;&gt;Important updates&lt;/h3&gt;
 &lt;ul&gt;
