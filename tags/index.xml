@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indo-Aryan</title>
+      <link>/tags/indo-aryan/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/indo-aryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urdu</title>
+      <link>/tags/urdu/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/urdu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detection</title>
@@ -33,14 +65,6 @@
       <link>/tags/hateful-users/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/tags/hateful-users/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Our Papers</title>
-      <link>/tags/our-papers/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/our-papers/</guid>
       <description></description>
     </item>
     
