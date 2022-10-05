@@ -5,12 +5,68 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Abusive language</title>
+      <link>/tags/abusive-language/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/abusive-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/tags/detection/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic</title>
+      <link>/tags/indic/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/indic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual</title>
+      <link>/tags/multilingual/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxic speech</title>
+      <link>/tags/toxic-speech/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/toxic-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxicity rating</title>
+      <link>/tags/toxicity-rating/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/toxicity-rating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>counterspeech</title>
@@ -37,10 +93,10 @@
     </item>
     
     <item>
-      <title>Our papers</title>
-      <link>/tags/our-papers/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/our-papers/</guid>
+      <title>Hindi</title>
+      <link>/tags/hindi/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/hindi/</guid>
       <description></description>
     </item>
     
@@ -65,14 +121,6 @@
       <link>/tags/urdu/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/tags/urdu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detection</title>
-      <link>/tags/detection/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/detection/</guid>
       <description></description>
     </item>
     
@@ -121,14 +169,6 @@
       <link>/tags/fear-speech/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/tags/fear-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hindi</title>
-      <link>/tags/hindi/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/hindi/</guid>
       <description></description>
     </item>
     
