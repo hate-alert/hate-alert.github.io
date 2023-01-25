@@ -5,7 +5,29 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 27 Mar 2023 08:30:00 +0000</lastBuildDate>
+    <item>
+      <title></title>
+      <link>/authors/hate-alert/</link>
+      <pubDate>Mon, 27 Mar 2023 08:30:00 +0000</pubDate>
+      <guid>/authors/hate-alert/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hate alert&lt;/strong&gt; is a group of researchers at  
+&lt;a href=&#34;http://www.cnergres.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNeRG Lab&lt;/a&gt;, 
+&lt;a href=&#34;http://www.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT Kharagpur&lt;/a&gt;, India. Our vision is to bring civility in online conversations by building systems to  &lt;strong&gt;analyse&lt;/strong&gt;, &lt;strong&gt;detect&lt;/strong&gt; and &lt;strong&gt;mitigate&lt;/strong&gt; hate in online social media. We have published papers in top conferences like NeurIPS, LREC, AAAI, IJCAI, WWW, ECML-PKDD, CSCW, ICWSM, HyperText and WebSci.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some of the important links for researchers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of our papers is 
+&lt;a href=&#34;tags/our-papers/&#34;&gt;linked here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check our Huggingface organisation - 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our hatexplain dataset can be found 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>[Animesh Mukherjee](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Animesh&#43;Mukherjee&amp;btnG=)</title>
       <link>/authors/animesh-mukherjeehttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsanimesh&#43;mukherjeebtng/</link>
@@ -108,28 +130,6 @@
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/authors/kanishk-singh/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/hate-alert/</link>
-      <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
-      <guid>/authors/hate-alert/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Hate alert&lt;/strong&gt; is a group of researchers at  
-&lt;a href=&#34;http://www.cnergres.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNeRG Lab&lt;/a&gt;, 
-&lt;a href=&#34;http://www.iitkgp.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT Kharagpur&lt;/a&gt;, India. Our vision is to bring civility in online conversations by building systems to  &lt;strong&gt;analyse&lt;/strong&gt;, &lt;strong&gt;detect&lt;/strong&gt; and &lt;strong&gt;mitigate&lt;/strong&gt; hate in online social media. We have published papers in top conferences like NeurIPS, LREC, AAAI, IJCAI, WWW, ECML-PKDD, CSCW, ICWSM, HyperText and WebSci.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Some of the important links for researchers&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;List of our papers is 
-&lt;a href=&#34;tags/our-papers/&#34;&gt;linked here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Check our Huggingface organisation - 
-&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Our hatexplain dataset can be found 
-&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
