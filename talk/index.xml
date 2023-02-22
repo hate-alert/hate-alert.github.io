@@ -45,7 +45,49 @@
 &lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
-&lt;p&gt;To be updated soon &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Outline of the Tutorial&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Analysis
+&lt;ol&gt;
+&lt;li&gt;Prevalence of hate speech.&lt;/li&gt;
+&lt;li&gt;Targets of hate speech.&lt;/li&gt;
+&lt;li&gt;Effects of hate speech.&lt;/li&gt;
+&lt;li&gt;Effect of offline events.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Detection
+&lt;ol&gt;
+&lt;li&gt;Summary of different datasets.
+&lt;ol&gt;
+&lt;li&gt;Unimodal.&lt;/li&gt;
+&lt;li&gt;Multimodal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Earlier detection models.&lt;/li&gt;
+&lt;li&gt;Current detection models .&lt;/li&gt;
+&lt;li&gt;Multimodal and multilingual hate speech.&lt;/li&gt;
+&lt;li&gt;Challenge.
+&lt;ol&gt;
+&lt;li&gt;Evaluation.&lt;/li&gt;
+&lt;li&gt;Explainability.&lt;/li&gt;
+&lt;li&gt;Bias.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Mitigation (40 mins).
+&lt;ol&gt;
+&lt;li&gt;Counterspeech campaigns.&lt;/li&gt;
+&lt;li&gt;Banning and suspending users.&lt;/li&gt;
+&lt;li&gt;Counterspeech detection.&lt;/li&gt;
+&lt;li&gt;Counterspeech generation.&lt;/li&gt;
+&lt;li&gt;Effect of counter speech.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Demo (15 mins).&lt;/li&gt;
+&lt;li&gt;Future Challenge (10 mins).&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3 id=&#34;about-the-organizers&#34;&gt;&lt;strong&gt;About the Organizers&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. More about him can be found 
 &lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
