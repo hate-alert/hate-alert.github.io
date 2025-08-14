@@ -28,10 +28,8 @@
   
     
   
-  <meta name="description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.">
-
-  
-  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <meta name="description" content="With the emergence of numerous Large Language Models (LLM), the usage of such models in various Natural Language Processing (NLP) applications is increasing extensively. Counterspeech generation is one such key task where efforts are made to develop generative models by fine-tuning LLMs with hatespeech - counterspeech pairs, but none of these attempts explores the intrinsic properties of large language models in zero-shot settings. In this work, we present a comprehensive analysis of the performances of four LLMs namely GPT-2, DialoGPT, ChatGPT and FlanT5 in zero-shot settings for counterspeech generation, which is the first of its kind. For GPT-2 and DialoGPT, we further investigate the deviation in performance with respect to the sizes (small, medium, large) of the models. On the other hand, we propose three different prompting strategies for generating different types of counterspeech and analyse the impact of such strategies on the performance of the models. Our analysis shows that there is an improvement in generation quality for two datasets (17%), however the toxicity increase (25%) with increase in model size. Considering type of model, GPT-2 and FlanT5 models are significantly better in terms of counterspeech quality but also have high toxicity as compared to DialoGPT. ChatGPT are much better at generating counter speech than other models across all metrics. In terms of prompting, we find that our proposed strategies help in improving counter speech generation across all the models.">
+  <link rel="alternate" hreflang="en-us" href="/publication/saha2024zeroshotcounterspeechgenerationllms/">
 
   
 
@@ -100,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="canonical" href="/publication/saha2024zeroshotcounterspeechgenerationllms/">
 
   
   
@@ -115,10 +113,11 @@
   <meta property="twitter:creator" content="@hate_alert">
   
   <meta property="og:site_name" content="Hate Alert">
-  <meta property="og:url" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
-  <meta property="og:title" content="HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation | Hate Alert">
-  <meta property="og:description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies."><meta property="og:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png">
-  <meta property="twitter:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/saha2024zeroshotcounterspeechgenerationllms/">
+  <meta property="og:title" content="On Zero-Shot Counterspeech Generation by LLMs | Hate Alert">
+  <meta property="og:description" content="With the emergence of numerous Large Language Models (LLM), the usage of such models in various Natural Language Processing (NLP) applications is increasing extensively. Counterspeech generation is one such key task where efforts are made to develop generative models by fine-tuning LLMs with hatespeech - counterspeech pairs, but none of these attempts explores the intrinsic properties of large language models in zero-shot settings. In this work, we present a comprehensive analysis of the performances of four LLMs namely GPT-2, DialoGPT, ChatGPT and FlanT5 in zero-shot settings for counterspeech generation, which is the first of its kind. For GPT-2 and DialoGPT, we further investigate the deviation in performance with respect to the sizes (small, medium, large) of the models. On the other hand, we propose three different prompting strategies for generating different types of counterspeech and analyse the impact of such strategies on the performance of the models. Our analysis shows that there is an improvement in generation quality for two datasets (17%), however the toxicity increase (25%) with increase in model size. Considering type of model, GPT-2 and FlanT5 models are significantly better in terms of counterspeech quality but also have high toxicity as compared to DialoGPT. ChatGPT are much better at generating counter speech than other models across all metrics. In terms of prompting, we find that our proposed strategies help in improving counter speech generation across all the models.">
+  <meta property="og:image" content="/publication/saha2024zeroshotcounterspeechgenerationllms/featured.png">
+  <meta property="twitter:image" content="/publication/saha2024zeroshotcounterspeechgenerationllms/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-15T00:00:00&#43;00:00">
@@ -189,7 +188,7 @@
 
 
 
-  <title>HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation| Hate Alert</title>
+  <title>On Zero-Shot Counterspeech Generation by LLMs | Hate Alert</title>
 
 </head>
 
@@ -413,20 +412,8 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
   
-          <span>Naquee Rizwan</span>, 
-          <span>Seid Muhie Yimam</span>, 
-          <span>Daryna Dementieva</span>, 
-          <span>Florian Skupin</span>, 
-          <span>Tim Fischer</span>, 
-          <span>Daniil Moskovskiy</span>, 
-          <span>Aarushi Ajay Borkar</span>, 
-          <span>Robert Geislinger</span>, 
-          <span>Punyajoy Saha</span>, 
-          <span>Sarthak Roy</span>, 
-          <span>Martin Semmann</span>, 
-          <span>Alexander Panchenko</span>, 
-          <span>Chris Biemann</span>, 
-          <span>Animesh Mukherjee</span>
+        <span>Punyajoy Saha</span>, <span>Aalok Agrawal</span>, <span>Abhik Jana</span>, <span>Chris Biemann</span>, <span>Animesh Mukherjee</span>
+
   </div>
   
   
@@ -437,7 +424,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
       
     
-    July 2025
+    May 2024
   </span>
   
 
@@ -482,7 +469,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2507.04350" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2403.14938" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -496,7 +483,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rizwan2025hateprismpoliciesplatformsresearch/cite.bib">
+        data-filename="/publication/saha2024zeroshotcounterspeechgenerationllms/cite.bib">
   Cite
 </button>
 
@@ -543,8 +530,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
     <h3>Abstract</h3>
     <p class="pub-abstract">
-        Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.
-    </p>
+With the emergence of numerous Large Language Models (LLM), the usage of such models in various Natural Language Processing (NLP) applications is increasing extensively. Counterspeech generation is one such key task where efforts are made to develop generative models by fine-tuning LLMs with hatespeech - counterspeech pairs, but none of these attempts explores the intrinsic properties of large language models in zero-shot settings. In this work, we present a comprehensive analysis of the performances of four LLMs namely GPT-2, DialoGPT, ChatGPT and FlanT5 in zero-shot settings for counterspeech generation, which is the first of its kind. For GPT-2 and DialoGPT, we further investigate the deviation in performance with respect to the sizes (small, medium, large) of the models. On the other hand, we propose three different prompting strategies for generating different types of counterspeech and analyse the impact of such strategies on the performance of the models. Our analysis shows that there is an improvement in generation quality for two datasets (17%), however the toxicity increase (25%) with increase in model size. Considering type of model, GPT-2 and FlanT5 models are significantly better in terms of counterspeech quality but also have high toxicity as compared to DialoGPT. ChatGPT are much better at generating counter speech than other models across all metrics. In terms of prompting, we find that our proposed strategies help in improving counter speech generation across all the models.    </p>
     
 
     
@@ -574,7 +560,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 63rd Annual Meeting of the Association for Computational Linguistics</div>
+          <div class="col-12 col-md-9">2024 Joint International Conference on Computational Linguistics and Language Resources and Evaluation (LREC-COLING 2024)</div>
         </div>
       </div>
       <div class="col-md-1"></div>

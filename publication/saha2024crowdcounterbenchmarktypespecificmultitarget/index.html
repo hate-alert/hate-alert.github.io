@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.">
+  <meta name="description" content="Counterspeech presents a viable alternative to banning or suspending users for hate speech while upholding freedom of expression. However, writing effective counterspeech is challenging for moderators/users. Hence, developing suggestion tools for writing counterspeech is the need of the hour. One critical challenge in developing such a tool is the lack of quality and diversity of the responses in the existing datasets. Hence, we introduce a new dataset - CrowdCounter containing 3,425 hate speech-counterspeech pairs spanning six different counterspeech types (empathy, humor, questioning, warning, shaming, contradiction), which is the first of its kind. The design of our annotation platform itself encourages annotators to write type-specific, non-redundant and high-quality counterspeech. We evaluate two frameworks for generating counterspeech responses - vanilla and type-controlled prompts - across four large language models. In terms of metrics, we evaluate the responses using relevance, diversity and quality. We observe that Flan-T5 is the best model in the vanilla framework across different models. Type-specific prompts enhance the relevance of the responses, although they might reduce the language quality. DialoGPT proves to be the best at following the instructions and generating the type-specific counterspeech accurately.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="alternate" hreflang="en-us" href="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="canonical" href="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/">
 
   
   
@@ -115,10 +115,11 @@
   <meta property="twitter:creator" content="@hate_alert">
   
   <meta property="og:site_name" content="Hate Alert">
-  <meta property="og:url" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
-  <meta property="og:title" content="HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation | Hate Alert">
-  <meta property="og:description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies."><meta property="og:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png">
-  <meta property="twitter:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/">
+  <meta property="og:title" content="CrowdCounter: A benchmark type-specific multi-target counterspeech dataset | Hate Alert">
+  <meta property="og:description" content="Counterspeech presents a viable alternative to banning or suspending users for hate speech while upholding freedom of expression. However, writing effective counterspeech is challenging for moderators/users. Hence, developing suggestion tools for writing counterspeech is the need of the hour. One critical challenge in developing such a tool is the lack of quality and diversity of the responses in the existing datasets. Hence, we introduce a new dataset - CrowdCounter containing 3,425 hate speech-counterspeech pairs spanning six different counterspeech types (empathy, humor, questioning, warning, shaming, contradiction), which is the first of its kind. The design of our annotation platform itself encourages annotators to write type-specific, non-redundant and high-quality counterspeech. We evaluate two frameworks for generating counterspeech responses - vanilla and type-controlled prompts - across four large language models. In terms of metrics, we evaluate the responses using relevance, diversity and quality. We observe that Flan-T5 is the best model in the vanilla framework across different models. Type-specific prompts enhance the relevance of the responses, although they might reduce the language quality. DialoGPT proves to be the best at following the instructions and generating the type-specific counterspeech accurately.">
+  <meta property="og:image" content="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/featured.png">
+  <meta property="twitter:image" content="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-15T00:00:00&#43;00:00">
@@ -189,7 +190,7 @@
 
 
 
-  <title>HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation| Hate Alert</title>
+  <title>CrowdCounter: A benchmark type-specific multi-target counterspeech dataset| Hate Alert</title>
 
 </head>
 
@@ -393,7 +394,7 @@
 
 <div class="article-container pt-3">
   <h1>
-HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation
+CrowdCounter: A benchmark type-specific multi-target counterspeech dataset
 </h1>
 
   
@@ -413,20 +414,8 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
   
-          <span>Naquee Rizwan</span>, 
-          <span>Seid Muhie Yimam</span>, 
-          <span>Daryna Dementieva</span>, 
-          <span>Florian Skupin</span>, 
-          <span>Tim Fischer</span>, 
-          <span>Daniil Moskovskiy</span>, 
-          <span>Aarushi Ajay Borkar</span>, 
-          <span>Robert Geislinger</span>, 
-          <span>Punyajoy Saha</span>, 
-          <span>Sarthak Roy</span>, 
-          <span>Martin Semmann</span>, 
-          <span>Alexander Panchenko</span>, 
-          <span>Chris Biemann</span>, 
-          <span>Animesh Mukherjee</span>
+        <span>Punyajoy Saha</span>, <span>Abhilash Datta</span>, <span>Abhik Jana</span>, <span>Animesh Mukherjee</span>
+
   </div>
   
   
@@ -437,7 +426,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
       
     
-    July 2025
+    Nov 2024
   </span>
   
 
@@ -482,7 +471,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2507.04350" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2410.01400" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -496,7 +485,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rizwan2025hateprismpoliciesplatformsresearch/cite.bib">
+        data-filename="/publication/saha2024crowdcounterbenchmarktypespecificmultitarget/cite.bib">
   Cite
 </button>
 
@@ -543,8 +532,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
     <h3>Abstract</h3>
     <p class="pub-abstract">
-        Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.
-    </p>
+        Counterspeech presents a viable alternative to banning or suspending users for hate speech while upholding freedom of expression. However, writing effective counterspeech is challenging for moderators/users. Hence, developing suggestion tools for writing counterspeech is the need of the hour. One critical challenge in developing such a tool is the lack of quality and diversity of the responses in the existing datasets. Hence, we introduce a new dataset - CrowdCounter containing 3,425 hate speech-counterspeech pairs spanning six different counterspeech types (empathy, humor, questioning, warning, shaming, contradiction), which is the first of its kind. The design of our annotation platform itself encourages annotators to write type-specific, non-redundant and high-quality counterspeech. We evaluate two frameworks for generating counterspeech responses - vanilla and type-controlled prompts - across four large language models. In terms of metrics, we evaluate the responses using relevance, diversity and quality. We observe that Flan-T5 is the best model in the vanilla framework across different models. Type-specific prompts enhance the relevance of the responses, although they might reduce the language quality. DialoGPT proves to be the best at following the instructions and generating the type-specific counterspeech accurately.    </p>
     
 
     
@@ -574,7 +562,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 63rd Annual Meeting of the Association for Computational Linguistics</div>
+          <div class="col-12 col-md-9">28th Conference on Computational Natural Language Learning (CoNLL 2024)</div>
         </div>
       </div>
       <div class="col-md-1"></div>

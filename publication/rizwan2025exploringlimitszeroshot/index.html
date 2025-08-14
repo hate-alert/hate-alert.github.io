@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.">
+  <meta name="description" content="There is a rapid increase in the use of multimedia content in current social media platforms. One of the highly popular forms of such multimedia content are memes. While memes have been primarily invented to promote funny and buoyant discussions, malevolent users exploit memes to target individuals or vulnerable communities, making it imperative to identify and address such instances of hateful memes. Thus social media platforms are in dire need for active moderation of such harmful content. While manual moderation is extremely difficult due to the scale of such content, automatic moderation is challenged by the need of good quality annotated data to train hate meme detection algorithms. This makes a perfect pretext for exploring the power of modern day vision language models (VLMs) that have exhibited outstanding performance across various tasks. In this paper we study the effectiveness of VLMs in handling intricate tasks such as hate meme detection in a completely zero-shot setting so that there is no dependency on annotated data for the task. We perform thorough prompt engineering and query state-of-the-art VLMs using various prompt types to detect hateful/harmful memes. We further interpret the misclassification cases using a novel superpixel based occlusion method. Finally we show that these misclassifications can be neatly arranged into a typology of error classes the knowledge of which should enable the design of better safety guardrails in future.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025exploringlimitszeroshot/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="canonical" href="/publication/rizwan2025exploringlimitszeroshot/">
 
   
   
@@ -115,10 +115,10 @@
   <meta property="twitter:creator" content="@hate_alert">
   
   <meta property="og:site_name" content="Hate Alert">
-  <meta property="og:url" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
-  <meta property="og:title" content="HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation | Hate Alert">
-  <meta property="og:description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies."><meta property="og:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png">
-  <meta property="twitter:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/rizwan2025exploringlimitszeroshot/">
+  <meta property="og:title" content="Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations | Hate Alert">
+  <meta property="og:description" content="There is a rapid increase in the use of multimedia content in current social media platforms. One of the highly popular forms of such multimedia content are memes. While memes have been primarily invented to promote funny and buoyant discussions, malevolent users exploit memes to target individuals or vulnerable communities, making it imperative to identify and address such instances of hateful memes. Thus social media platforms are in dire need for active moderation of such harmful content. While manual moderation is extremely difficult due to the scale of such content, automatic moderation is challenged by the need of good quality annotated data to train hate meme detection algorithms. This makes a perfect pretext for exploring the power of modern day vision language models (VLMs) that have exhibited outstanding performance across various tasks. In this paper we study the effectiveness of VLMs in handling intricate tasks such as hate meme detection in a completely zero-shot setting so that there is no dependency on annotated data for the task. We perform thorough prompt engineering and query state-of-the-art VLMs using various prompt types to detect hateful/harmful memes. We further interpret the misclassification cases using a novel superpixel based occlusion method. Finally we show that these misclassifications can be neatly arranged into a typology of error classes the knowledge of which should enable the design of better safety guardrails in future."><meta property="og:image" content="/publication/rizwan2025exploringlimitszeroshot/featured.png">
+  <meta property="twitter:image" content="/publication/rizwan2025exploringlimitszeroshot/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-15T00:00:00&#43;00:00">
@@ -189,7 +189,7 @@
 
 
 
-  <title>HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation| Hate Alert</title>
+  <title>Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations | Hate Alert</title>
 
 </head>
 
@@ -413,20 +413,8 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
   
-          <span>Naquee Rizwan</span>, 
-          <span>Seid Muhie Yimam</span>, 
-          <span>Daryna Dementieva</span>, 
-          <span>Florian Skupin</span>, 
-          <span>Tim Fischer</span>, 
-          <span>Daniil Moskovskiy</span>, 
-          <span>Aarushi Ajay Borkar</span>, 
-          <span>Robert Geislinger</span>, 
-          <span>Punyajoy Saha</span>, 
-          <span>Sarthak Roy</span>, 
-          <span>Martin Semmann</span>, 
-          <span>Alexander Panchenko</span>, 
-          <span>Chris Biemann</span>, 
-          <span>Animesh Mukherjee</span>
+    <span>Naquee Rizwan</span>, <span>Paramananda Bhaskar</span>, <span>Mithun Das</span>, <span>Swadhin Satyaprakash Majhi</span>, <span>Punyajoy Saha</span>, <span>Animesh Mukherjee</span>
+
   </div>
   
   
@@ -437,7 +425,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
       
     
-    July 2025
+    June 2025
   </span>
   
 
@@ -496,7 +484,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rizwan2025hateprismpoliciesplatformsresearch/cite.bib">
+        data-filename="/publication/rizwan2025exploringlimitszeroshot/cite.bib">
   Cite
 </button>
 
@@ -543,8 +531,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
     <h3>Abstract</h3>
     <p class="pub-abstract">
-        Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.
-    </p>
+            There is a rapid increase in the use of multimedia content in current social media platforms. One of the highly popular forms of such multimedia content are memes. While memes have been primarily invented to promote funny and buoyant discussions, malevolent users exploit memes to target individuals or vulnerable communities, making it imperative to identify and address such instances of hateful memes. Thus social media platforms are in dire need for active moderation of such harmful content. While manual moderation is extremely difficult due to the scale of such content, automatic moderation is challenged by the need of good quality annotated data to train hate meme detection algorithms. This makes a perfect pretext for exploring the power of modern day vision language models (VLMs) that have exhibited outstanding performance across various tasks. In this paper we study the effectiveness of VLMs in handling intricate tasks such as hate meme detection in a completely zero-shot setting so that there is no dependency on annotated data for the task. We perform thorough prompt engineering and query state-of-the-art VLMs using various prompt types to detect hateful/harmful memes. We further interpret the misclassification cases using a novel superpixel based occlusion method. Finally we show that these misclassifications can be neatly arranged into a typology of error classes the knowledge of which should enable the design of better safety guardrails in future.    </p>
     
 
     
@@ -574,7 +561,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 63rd Annual Meeting of the Association for Computational Linguistics</div>
+          <div class="col-12 col-md-9">Proceedings of the International AAAI Conference on Web and Social Media</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -619,36 +606,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       
         
       
-      
-      
-      
-        
-      
-      
 
-      
-      
-      
-        
-      
-  
-      
-      
-      
-        
-      
-      
-      
-
-    
-      
-      
-      
-        
-      
-      
-      
-  
     
   </ul>
 </div>

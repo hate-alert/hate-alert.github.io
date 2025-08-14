@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.">
+  <meta name="description" content="Toxicity in digital media poses significant challenges, yet little attention has been given to its dynamics within the rapidly growing medium of podcasts. This paper addresses this gap by analyzing political podcast data to study the emergence and propagation of toxicity, focusing on conversation chains-structured reply patterns within podcast transcripts. Leveraging state-of-the-art transcription models and advanced conversational analysis techniques, we systematically examine toxic discourse in over 30 popular political podcasts in the United States. Our key contributions include: (1) creating a comprehensive dataset of transcribed and diarized political podcasts, identifying thousands of toxic instances using Google's Perspective API, (2) uncovering concerning trends where a majority of episodes contain at least one toxic instance, (3) introducing toxic conversation chains and analyzing their structural and linguistic properties, revealing characteristics such as longer durations, repetitive patterns, figurative language, and emotional cues tied to anger and annoyance, (4) identifying demand-related words like 'want', 'like', and 'know' as precursors to toxicity, and (5) developing predictive models to anticipate toxicity shifts based on annotated change points. Our findings provide critical insights into podcast toxicity and establish a foundation for future research on real-time monitoring and intervention mechanisms to foster healthier discourse in this influential medium.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="canonical" href="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/">
 
   
   
@@ -115,10 +115,10 @@
   <meta property="twitter:creator" content="@hate_alert">
   
   <meta property="og:site_name" content="Hate Alert">
-  <meta property="og:url" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
-  <meta property="og:title" content="HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation | Hate Alert">
-  <meta property="og:description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies."><meta property="og:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png">
-  <meta property="twitter:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/">
+  <meta property="og:title" content="Dynamics of Toxicity in Political Podcasts | Hate Alert">
+  <meta property="og:description" content="Toxicity in digital media poses significant challenges, yet little attention has been given to its dynamics within the rapidly growing medium of podcasts. This paper addresses this gap by analyzing political podcast data to study the emergence and propagation of toxicity, focusing on conversation chains-structured reply patterns within podcast transcripts. Leveraging state-of-the-art transcription models and advanced conversational analysis techniques, we systematically examine toxic discourse in over 30 popular political podcasts in the United States. Our key contributions include: (1) creating a comprehensive dataset of transcribed and diarized political podcasts, identifying thousands of toxic instances using Google's Perspective API, (2) uncovering concerning trends where a majority of episodes contain at least one toxic instance, (3) introducing toxic conversation chains and analyzing their structural and linguistic properties, revealing characteristics such as longer durations, repetitive patterns, figurative language, and emotional cues tied to anger and annoyance, (4) identifying demand-related words like 'want', 'like', and 'know' as precursors to toxicity, and (5) developing predictive models to anticipate toxicity shifts based on annotated change points. Our findings provide critical insights into podcast toxicity and establish a foundation for future research on real-time monitoring and intervention mechanisms to foster healthier discourse in this influential medium."><meta property="og:image" content="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/featured.png">
+  <meta property="twitter:image" content="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-15T00:00:00&#43;00:00">
@@ -189,7 +189,7 @@
 
 
 
-  <title>HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation| Hate Alert</title>
+  <title>Dynamics of Toxicity in Political Podcasts| Hate Alert</title>
 
 </head>
 
@@ -393,7 +393,7 @@
 
 <div class="article-container pt-3">
   <h1>
-HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation
+Dynamics of Toxicity in Political Podcasts
 </h1>
 
   
@@ -413,20 +413,8 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
   
-          <span>Naquee Rizwan</span>, 
-          <span>Seid Muhie Yimam</span>, 
-          <span>Daryna Dementieva</span>, 
-          <span>Florian Skupin</span>, 
-          <span>Tim Fischer</span>, 
-          <span>Daniil Moskovskiy</span>, 
-          <span>Aarushi Ajay Borkar</span>, 
-          <span>Robert Geislinger</span>, 
-          <span>Punyajoy Saha</span>, 
-          <span>Sarthak Roy</span>, 
-          <span>Martin Semmann</span>, 
-          <span>Alexander Panchenko</span>, 
-          <span>Chris Biemann</span>, 
-          <span>Animesh Mukherjee</span>
+        <span>Naquee Rizwan</span>, <span>Nayandeep Deb</span>, <span>Sarthak Roy</span>, <span>Vishwajeet Singh Solanki</span>, <span>Kiran Garimella</span>, <span>Animesh Mukherjee</span>
+
   </div>
   
   
@@ -437,7 +425,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
       
     
-    July 2025
+    Jan 2025
   </span>
   
 
@@ -482,7 +470,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2507.04350" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2501.12640" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -496,7 +484,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rizwan2025hateprismpoliciesplatformsresearch/cite.bib">
+        data-filename="/publication/rizwan2025dynamicstoxicitypoliticalpodcasts/cite.bib">
   Cite
 </button>
 
@@ -543,8 +531,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
     <h3>Abstract</h3>
     <p class="pub-abstract">
-        Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.
-    </p>
+            Toxicity in digital media poses significant challenges, yet little attention has been given to its dynamics within the rapidly growing medium of podcasts. This paper addresses this gap by analyzing political podcast data to study the emergence and propagation of toxicity, focusing on conversation chains-structured reply patterns within podcast transcripts. Leveraging state-of-the-art transcription models and advanced conversational analysis techniques, we systematically examine toxic discourse in over 30 popular political podcasts in the United States. Our key contributions include: (1) creating a comprehensive dataset of transcribed and diarized political podcasts, identifying thousands of toxic instances using Google's Perspective API, (2) uncovering concerning trends where a majority of episodes contain at least one toxic instance, (3) introducing toxic conversation chains and analyzing their structural and linguistic properties, revealing characteristics such as longer durations, repetitive patterns, figurative language, and emotional cues tied to anger and annoyance, (4) identifying demand-related words like 'want', 'like', and 'know' as precursors to toxicity, and (5) developing predictive models to anticipate toxicity shifts based on annotated change points. Our findings provide critical insights into podcast toxicity and establish a foundation for future research on real-time monitoring and intervention mechanisms to foster healthier discourse in this influential medium.    </p>
     
 
     
@@ -574,7 +561,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 63rd Annual Meeting of the Association for Computational Linguistics</div>
+          <div class="col-12 col-md-9">arXiv preprint arXiv:2501.12640</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -619,36 +606,10 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       
         
       
-      
-      
-      
-        
-      
-      
-
-      
-      
-      
-        
-      
-  
-      
-      
-      
-        
-      
-      
-      
-
     
       
-      
-      
         
-      
-      
-      
-  
+    
     
   </ul>
 </div>

@@ -28,10 +28,9 @@
   
     
   
-  <meta name="description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.">
-
+  <meta name="description" content="Even with various regulations in place across countries and social media platforms (Government of India, 2021; European Parliament and Council of the European Union, 2022, digital abusive speech remains a significant issue. One potential approach to address this challenge is automatic text detoxification, a text style transfer (TST) approach that transforms toxic language into a more neutral or non-toxic form. To date, the availability of parallel corpora for the text detoxification task (Logachevavet al., 2022; Atwell et al., 2022; Dementievavet al., 2024a) has proven to be crucial for state-of-the-art approaches. With this work, we extend parallel text detoxification corpus to new languages -- German, Chinese, Arabic, Hindi, and Amharic -- testing in the extensive multilingual setup TST baselines. Next, we conduct the first of its kind an automated, explainable analysis of the descriptive features of both toxic and non-toxic sentences, diving deeply into the nuances, similarities, and differences of toxicity and detoxification across 9 languages. Finally, based on the obtained insights, we experiment with a novel text detoxification method inspired by the Chain-of-Thoughts reasoning approach, enhancing the prompting process through clustering on relevant descriptive attributes.">
   
-  <link rel="alternate" hreflang="en-us" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="alternate" hreflang="en-us" href="/publication/dementieva2024multilingualexplainabletextdetoxification/">
 
   
 
@@ -100,7 +99,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
+  <link rel="canonical" href="/publication/dementieva2024multilingualexplainabletextdetoxification/">
 
   
   
@@ -115,10 +114,11 @@
   <meta property="twitter:creator" content="@hate_alert">
   
   <meta property="og:site_name" content="Hate Alert">
-  <meta property="og:url" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/">
-  <meta property="og:title" content="HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation | Hate Alert">
-  <meta property="og:description" content="Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies."><meta property="og:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png">
-  <meta property="twitter:image" content="/publication/rizwan2025hateprismpoliciesplatformsresearch/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/dementieva2024multilingualexplainabletextdetoxification/">
+  <meta property="og:title" content="Multilingual and Explainable Text Detoxification with Parallel Corpora | Hate Alert">
+  <meta property="og:description" content="Even with various regulations in place across countries and social media platforms (Government of India, 2021; European Parliament and Council of the European Union, 2022, digital abusive speech remains a significant issue. One potential approach to address this challenge is automatic text detoxification, a text style transfer (TST) approach that transforms toxic language into a more neutral or non-toxic form. To date, the availability of parallel corpora for the text detoxification task (Logachevavet al., 2022; Atwell et al., 2022; Dementievavet al., 2024a) has proven to be crucial for state-of-the-art approaches. With this work, we extend parallel text detoxification corpus to new languages -- German, Chinese, Arabic, Hindi, and Amharic -- testing in the extensive multilingual setup TST baselines. Next, we conduct the first of its kind an automated, explainable analysis of the descriptive features of both toxic and non-toxic sentences, diving deeply into the nuances, similarities, and differences of toxicity and detoxification across 9 languages. Finally, based on the obtained insights, we experiment with a novel text detoxification method inspired by the Chain-of-Thoughts reasoning approach, enhancing the prompting process through clustering on relevant descriptive attributes.">
+  <meta property="og:image" content="/publication/dementieva2024multilingualexplainabletextdetoxification/featured.png">
+  <meta property="twitter:image" content="/publication/dementieva2024multilingualexplainabletextdetoxification/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-15T00:00:00&#43;00:00">
@@ -189,7 +189,7 @@
 
 
 
-  <title>HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation| Hate Alert</title>
+  <title>Multilingual and Explainable Text Detoxification with Parallel Corpora | Hate Alert</title>
 
 </head>
 
@@ -393,7 +393,7 @@
 
 <div class="article-container pt-3">
   <h1>
-HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation
+Multilingual and Explainable Text Detoxification with Parallel Corpora
 </h1>
 
   
@@ -413,20 +413,8 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
   
-          <span>Naquee Rizwan</span>, 
-          <span>Seid Muhie Yimam</span>, 
-          <span>Daryna Dementieva</span>, 
-          <span>Florian Skupin</span>, 
-          <span>Tim Fischer</span>, 
-          <span>Daniil Moskovskiy</span>, 
-          <span>Aarushi Ajay Borkar</span>, 
-          <span>Robert Geislinger</span>, 
-          <span>Punyajoy Saha</span>, 
-          <span>Sarthak Roy</span>, 
-          <span>Martin Semmann</span>, 
-          <span>Alexander Panchenko</span>, 
-          <span>Chris Biemann</span>, 
-          <span>Animesh Mukherjee</span>
+        <span>Naquee Rizwan</span>, <span>Nayandeep Deb</span>, <span>Sarthak Roy</span>, <span>Vishwajeet Singh Solanki</span>, <span>Kiran Garimella</span>, <span>Animesh Mukherjee</span>
+
   </div>
   
   
@@ -437,7 +425,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
       
     
-    July 2025
+    Jan 2025
   </span>
   
 
@@ -482,7 +470,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2507.04350" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2412.11691" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -496,7 +484,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rizwan2025hateprismpoliciesplatformsresearch/cite.bib">
+        data-filename="/publication/dementieva2024multilingualexplainabletextdetoxification/cite.bib">
   Cite
 </button>
 
@@ -543,8 +531,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
     
     <h3>Abstract</h3>
     <p class="pub-abstract">
-        Despite regulations imposed by nations and social media platforms, e.g. (Government of India, 2021; European Parliament and Council of the European Union, 2022), inter alia, hateful content persists as a significant challenge. Existing approaches primarily rely on reactive measures such as blocking or suspending offensive messages, with emerging strategies focusing on proactive measurements like detoxification and counterspeech. In our work, which we call HatePRISM, we conduct a comprehensive examination of hate speech regulations and strategies from three perspectives: country regulations, social platform policies, and NLP research datasets. Our findings reveal significant inconsistencies in hate speech definitions and moderation practices across jurisdictions and platforms, alongside a lack of alignment with research efforts. Based on these insights, we suggest ideas and research direction for further exploration of a unified framework for automated hate speech moderation incorporating diverse strategies.
-    </p>
+Even with various regulations in place across countries and social media platforms (Government of India, 2021; European Parliament and Council of the European Union, 2022, digital abusive speech remains a significant issue. One potential approach to address this challenge is automatic text detoxification, a text style transfer (TST) approach that transforms toxic language into a more neutral or non-toxic form. To date, the availability of parallel corpora for the text detoxification task (Logachevavet al., 2022; Atwell et al., 2022; Dementievavet al., 2024a) has proven to be crucial for state-of-the-art approaches. With this work, we extend parallel text detoxification corpus to new languages -- German, Chinese, Arabic, Hindi, and Amharic -- testing in the extensive multilingual setup TST baselines. Next, we conduct the first of its kind an automated, explainable analysis of the descriptive features of both toxic and non-toxic sentences, diving deeply into the nuances, similarities, and differences of toxicity and detoxification across 9 languages. Finally, based on the obtained insights, we experiment with a novel text detoxification method inspired by the Chain-of-Thoughts reasoning approach, enhancing the prompting process through clustering on relevant descriptive attributes.    </p>
     
 
     
@@ -574,7 +561,7 @@ HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 63rd Annual Meeting of the Association for Computational Linguistics</div>
+          <div class="col-12 col-md-9">Proceedings of the 31st International Conference on Computational Linguistics</div>
         </div>
       </div>
       <div class="col-md-1"></div>
